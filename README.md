@@ -2,7 +2,7 @@
 Machine Learning Coursera (@Stanford University)
 
 # Certification
-[Coursera GBCEPXQUZUDR.pdf](https://github.com/TabithaKO/Machine-Learning/files/4327604/Coursera.GBCEPXQUZUDR.pdf)
+![Screenshot 2020-03-12 at 22 57 48](https://user-images.githubusercontent.com/50864401/76585588-1f95f180-64b5-11ea-95ed-2e8569e77019.png)
 
 # Content 
 Includes but isn't limited to:
